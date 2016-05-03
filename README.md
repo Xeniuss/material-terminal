@@ -1,5 +1,5 @@
 # material-terminal
 Material Design colours theme for terminal
-![alt text](https://github.com/Xeniuss/material-terminal/screenshot.png "Terminal screen")
-![alt text](https://github.com/Xeniuss/material-terminal/colors.png "Colors screen")
+![Terminal screen](https://github.com/Xeniuss/material-terminal/screenshot.png "Terminal screen")
+![Colors screen](https://github.com/Xeniuss/material-terminal/colors.png "Colors screen")
 
